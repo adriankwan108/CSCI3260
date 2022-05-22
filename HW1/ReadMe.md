@@ -17,10 +17,9 @@ It is just like an app for viewing a 3D model.
 <pre>
 Open Visual Studio 2019 and build. 
 F5 for running the program.
+</pre>
 
 ![plot](https://github.com/adriankwan108/CSCI3260/blob/main/HW1/asg1_demo.jpg)
-
-</pre>
 
 **Manipulation:**
 <pre>
