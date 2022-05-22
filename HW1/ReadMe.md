@@ -1,7 +1,3 @@
-
-Source.cpp
-  Project1.vcxproj -> C:\xxx\Project1\x64\Debug\Project1.exe
-
 **Objective**
 <pre>
 This objective of this assignment is to have experience with OpenGL, 
@@ -16,10 +12,13 @@ The functions installed could be used for enjoying the scenery of tree LUL, and 
 It is just like an app for viewing a 3D model.
 </pre>
 
-**Usage**
+**How to open**
 <pre>
 Open Visual Studio 2019 and build. 
 F5 for running the program.
+
+![plot](asg1_demo.jpg)
+
 </pre>
 
 **Manipulation:**
