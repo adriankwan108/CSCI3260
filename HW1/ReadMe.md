@@ -8,7 +8,8 @@ and apply the computer graphics basic concepts and the programmable pipeline.
 <pre>
 There is a mincraft-like tree at the centre.
 There are some treasures (3D boxes), and a button (not workable).
-The functions installed could be used for enjoying the scenery of tree LUL, and could see the depth test manually.
+The functions installed could be used for enjoying the scenery of tree, 
+and could see the depth test manually.
 It is just like an app for viewing a 3D model.
 </pre>
 
@@ -17,7 +18,7 @@ It is just like an app for viewing a 3D model.
 Open Visual Studio 2019 and build. 
 F5 for running the program.
 
-![plot](asg1_demo.jpg)
+![plot](https://github.com/adriankwan108/CSCI3260/blob/main/HW1/asg1_demo.jpg)
 
 </pre>
 
