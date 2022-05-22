@@ -13,9 +13,20 @@ and could see the depth test manually.
 It is just like an app for viewing a 3D model.
 </pre>
 
+**Requirement**
+<pre>
+OpenGL, C++ (with Visual Studio 2019)
+FreeGLUT, GLEW, GLM
+</pre>
+
 **How to open**
 <pre>
-Open Visual Studio 2019 and build. 
+Open Visual Studio 2019.
+Make sure the platform is x64.
+Setup OpenGL environment and dependencies, 
+i.e. properties->linker->general->additional library directories, add "freeglut"...
+     properties->linker->input->additional dependencies, add "opengl32.lib"...
+Build solution.
 F5 for running the program.
 </pre>
 
